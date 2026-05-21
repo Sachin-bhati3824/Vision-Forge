@@ -15,7 +15,7 @@ ImageGenApp::ImageGenApp(int w,int h,const char* title) : Fl_Double_Window(w,h,t
     gen_button = new Fl_Button(100,60,140,30,"Generate Image");
     gen_button->callback(generate_cb, this);
 
-    profeesinal_button = new Fl_Button(250,60,140,30,"Proffesional");
+    profeesinal_button = new Fl_Button(250,60,140,30,"Professional");
     profeesinal_button->callback(open_side_menu_cb,this);
 
     reset_button = new Fl_Button(410,60,47,30,"Reset");
