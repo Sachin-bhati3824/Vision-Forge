@@ -19,7 +19,8 @@
 ---
 How does it look 
 
-<img width="1258" height="719" alt="Screenshot 2026-04-09 032353" src="https://github.com/user-attachments/assets/0ce4af33-ce20-4c02-acaa-3b3d253f2d60" />
+
+<img width="1292" height="730" alt="Screenshot 2026-05-21 141053" src="https://github.com/user-attachments/assets/be6496fa-f61c-4fc1-af02-d0ce5693c98b" />
 
 ---
 
